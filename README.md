@@ -69,17 +69,25 @@ Voici une vidéo illustrant le fonctionnement des trois exercices :
 ### 1. Cloner la repo
 ```bash
 git clone https://github.com/benhirtfatimaezzahra/Lab2_intro_python.git
+```
 
-2. Ouvrir les notebooks
+### 2. Ouvrir les notebooks
 
 Depuis Jupyter Notebook, VS Code ou Google Colab, ouvrez :
 
-Mini-calculatrice.ipynb
+- `Mini-calculatrice.ipynb`
+- `Conversion de températures.ipynb`
+- `Analyse de texte utilisateur.ipynb`
 
-Conversion de températures.ipynb
-
-Analyse de texte utilisateur.ipynb
-
-3. Exécuter les cellules
+### 3. Exécuter les cellules
 
 Chaque notebook contient un exercice autonome.
+
+
+
+Auteur
+
+Benhirt Fatima Ezzahra 
+Cours : Introduction à Python
+Date : Novembre 2025
+Encadré par: Pr. Mohamed LACHGAR
