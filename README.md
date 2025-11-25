@@ -57,11 +57,8 @@ L’utilisateur entre une phrase ou un mot, et le programme affiche :
 ---
 
 ##  Démonstration
-Voici une vidéo illustrant le fonctionnement des trois exercices :
-<video width="600" controls>
-  <source src="video_demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture vidéo.
-</video>
+[ Voir la vidéo de démonstration](video_demo.mp4)
+
 
 
 ##  Installation & Exécution
@@ -85,9 +82,10 @@ Chaque notebook contient un exercice autonome.
 
 
 
-Auteur
+##  Auteur
 
-Benhirt Fatima Ezzahra 
-Cours : Introduction à Python
-Date : Novembre 2025
-Encadré par: Pr. Mohamed LACHGAR
+**Nom :** Benhirt Fatima Ezzahra  
+**Cours :** Introduction à Python  
+**Date :** Novembre 2025  
+**Encadré par :** Pr. Mohamed LACHGAR  
+
