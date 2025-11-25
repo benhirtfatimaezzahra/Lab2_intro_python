@@ -57,9 +57,9 @@ L’utilisateur entre une phrase ou un mot, et le programme affiche :
 ---
 
 ##  Démonstration
-[ Voir la vidéo de démonstration](video_demo.mp4)
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06f47ea5-836e-4127-a394-37600ac07801" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c89a6e71-a805-4207-b196-476cbe30f243" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9817730a-2ee0-480e-adf5-10a8ca8b640e" />
 
 ##  Installation & Exécution
 
