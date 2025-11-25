@@ -58,11 +58,28 @@ L’utilisateur entre une phrase ou un mot, et le programme affiche :
 
 ##  Démonstration
 Voici une vidéo illustrant le fonctionnement des trois exercices :
+<video width="600" controls>
+  <source src="video_demo.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
 
 
-
-## 🚀 Installation & Exécution
+##  Installation & Exécution
 
 ### 1. Cloner la repo
 ```bash
 git clone https://github.com/benhirtfatimaezzahra/Lab2_intro_python.git
+
+2. Ouvrir les notebooks
+
+Depuis Jupyter Notebook, VS Code ou Google Colab, ouvrez :
+
+Mini-calculatrice.ipynb
+
+Conversion de températures.ipynb
+
+Analyse de texte utilisateur.ipynb
+
+3. Exécuter les cellules
+
+Chaque notebook contient un exercice autonome.
